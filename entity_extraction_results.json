@@ -1,0 +1,5083 @@
+{
+  "patents": [
+    {
+      "id": "CN202100001",
+      "title": "一种基于5G技术的智能驾驶系统",
+      "entities": [
+        {
+          "text": "5G技术",
+          "type": "technology",
+          "start": 4,
+          "end": 8,
+          "confidence": 0.9
+        },
+        {
+          "text": "技术",
+          "type": "technology",
+          "start": 6,
+          "end": 8,
+          "confidence": 0.5
+        },
+        {
+          "text": "系统",
+          "type": "technology",
+          "start": 13,
+          "end": 15,
+          "confidence": 0.5
+        },
+        {
+          "text": "由华为技术有限公司",
+          "type": "enterprise",
+          "start": 37,
+          "end": 46,
+          "confidence": 0.7
+        },
+        {
+          "text": "华为",
+          "type": "enterprise",
+          "start": 38,
+          "end": 40,
+          "confidence": 0.95
+        },
+        {
+          "text": "华为技术有限公司",
+          "type": "enterprise",
+          "start": 38,
+          "end": 46,
+          "confidence": 0.95
+        },
+        {
+          "text": "人工智能",
+          "type": "technology",
+          "start": 51,
+          "end": 55,
+          "confidence": 0.9
+        },
+        {
+          "text": "算法",
+          "type": "technology",
+          "start": 55,
+          "end": 57,
+          "confidence": 0.5
+        },
+        {
+          "text": "该系统可与比亚迪股份有限公司",
+          "type": "enterprise",
+          "start": 69,
+          "end": 83,
+          "confidence": 0.7
+        },
+        {
+          "text": "比亚迪股份有限公司",
+          "type": "enterprise",
+          "start": 74,
+          "end": 83,
+          "confidence": 0.95
+        },
+        {
+          "text": "比亚迪",
+          "type": "enterprise",
+          "start": 74,
+          "end": 77,
+          "confidence": 0.95
+        },
+        {
+          "text": "电动汽车",
+          "type": "product",
+          "start": 84,
+          "end": 88,
+          "confidence": 0.9
+        },
+        {
+          "text": "平台",
+          "type": "technology",
+          "start": 88,
+          "end": 90,
+          "confidence": 0.5
+        },
+        {
+          "text": "自动驾驶",
+          "type": "technology",
+          "start": 95,
+          "end": 99,
+          "confidence": 0.9
+        }
+      ],
+      "relations": [
+        {
+          "source": "由华为技术有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由华为技术有限公司",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "华为技术有限公司",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "5G技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "算法",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "平台",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "自动驾驶",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "比亚迪股份有限公司",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "该系统可与比亚迪股份有限公司",
+          "target": "比亚迪",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "该系统可与比亚迪股份有限公司",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "比亚迪股份有限公司",
+          "target": "比亚迪",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "比亚迪",
+          "target": "该系统可与比亚迪股份有限公司",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "比亚迪",
+          "target": "比亚迪股份有限公司",
+          "relation": "compete",
+          "confidence": 0.6
+        }
+      ],
+      "entity_count": 14,
+      "relation_count": 102
+    },
+    {
+      "id": "CN202100002",
+      "title": "新能源汽车动力电池管理系统",
+      "entities": [
+        {
+          "text": "新能源汽车",
+          "type": "product",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.9
+        },
+        {
+          "text": "动力电池",
+          "type": "product",
+          "start": 5,
+          "end": 9,
+          "confidence": 0.9
+        },
+        {
+          "text": "管理系统",
+          "type": "technology",
+          "start": 9,
+          "end": 13,
+          "confidence": 0.5
+        },
+        {
+          "text": "系统",
+          "type": "technology",
+          "start": 11,
+          "end": 13,
+          "confidence": 0.5
+        },
+        {
+          "text": "由宁德时代新能源科技股份有限公司",
+          "type": "enterprise",
+          "start": 36,
+          "end": 52,
+          "confidence": 0.7
+        },
+        {
+          "text": "宁德时代",
+          "type": "enterprise",
+          "start": 37,
+          "end": 41,
+          "confidence": 0.95
+        },
+        {
+          "text": "宁德时代新能源科技股份有限公司",
+          "type": "enterprise",
+          "start": 37,
+          "end": 52,
+          "confidence": 0.95
+        },
+        {
+          "text": "电池技术",
+          "type": "technology",
+          "start": 63,
+          "end": 67,
+          "confidence": 0.9
+        },
+        {
+          "text": "技术",
+          "type": "technology",
+          "start": 65,
+          "end": 67,
+          "confidence": 0.5
+        },
+        {
+          "text": "比亚迪",
+          "type": "enterprise",
+          "start": 70,
+          "end": 73,
+          "confidence": 0.95
+        },
+        {
+          "text": "电动汽车",
+          "type": "product",
+          "start": 78,
+          "end": 82,
+          "confidence": 0.9
+        },
+        {
+          "text": "系统集成",
+          "type": "technology",
+          "start": 99,
+          "end": 103,
+          "confidence": 0.5
+        },
+        {
+          "text": "物联网",
+          "type": "technology",
+          "start": 104,
+          "end": 107,
+          "confidence": 0.9
+        }
+      ],
+      "relations": [
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电池技术",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "比亚迪",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "电动汽车",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "系统集成",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "由宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "宁德时代",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "宁德时代新能源科技股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "电池技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "比亚迪",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "电动汽车",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "系统集成",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "管理系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "电池技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "系统集成",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由宁德时代新能源科技股份有限公司",
+          "target": "物联网",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代",
+          "target": "管理系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代",
+          "target": "电池技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代",
+          "target": "系统集成",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代",
+          "target": "物联网",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "管理系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "电池技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "系统集成",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "宁德时代新能源科技股份有限公司",
+          "target": "物联网",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "管理系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "电池技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "系统集成",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "比亚迪",
+          "target": "物联网",
+          "relation": "technology",
+          "confidence": 0.8
+        }
+      ],
+      "entity_count": 13,
+      "relation_count": 168
+    },
+    {
+      "id": "CN202100003",
+      "title": "柔性OLED显示屏制造工艺",
+      "entities": [
+        {
+          "text": "OLED",
+          "type": "enterprise",
+          "start": 2,
+          "end": 6,
+          "confidence": 0.7
+        },
+        {
+          "text": "OLED",
+          "type": "enterprise",
+          "start": 23,
+          "end": 27,
+          "confidence": 0.7
+        },
+        {
+          "text": "由京东方科技集团股份有限公司",
+          "type": "enterprise",
+          "start": 35,
+          "end": 49,
+          "confidence": 0.7
+        },
+        {
+          "text": "京东方",
+          "type": "enterprise",
+          "start": 36,
+          "end": 39,
+          "confidence": 0.95
+        },
+        {
+          "text": "京东方科技集团股份有限公司",
+          "type": "enterprise",
+          "start": 36,
+          "end": 49,
+          "confidence": 0.95
+        },
+        {
+          "text": "半导体技术",
+          "type": "technology",
+          "start": 60,
+          "end": 65,
+          "confidence": 0.9
+        },
+        {
+          "text": "技术",
+          "type": "technology",
+          "start": 63,
+          "end": 65,
+          "confidence": 0.5
+        },
+        {
+          "text": "柔性屏",
+          "type": "product",
+          "start": 72,
+          "end": 75,
+          "confidence": 0.9
+        },
+        {
+          "text": "小米",
+          "type": "enterprise",
+          "start": 79,
+          "end": 81,
+          "confidence": 0.95
+        },
+        {
+          "text": "OPPO",
+          "type": "enterprise",
+          "start": 82,
+          "end": 86,
+          "confidence": 0.95
+        },
+        {
+          "text": "vivo",
+          "type": "enterprise",
+          "start": 87,
+          "end": 91,
+          "confidence": 0.95
+        },
+        {
+          "text": "智能手机",
+          "type": "product",
+          "start": 92,
+          "end": 96,
+          "confidence": 0.9
+        },
+        {
+          "text": "手机",
+          "type": "product",
+          "start": 94,
+          "end": 96,
+          "confidence": 0.9
+        },
+        {
+          "text": "LCD",
+          "type": "enterprise",
+          "start": 104,
+          "end": 107,
+          "confidence": 0.7
+        },
+        {
+          "text": "OLED",
+          "type": "enterprise",
+          "start": 112,
+          "end": 116,
+          "confidence": 0.7
+        }
+      ],
+      "relations": [
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "半导体技术",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "柔性屏",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "小米",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OPPO",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "vivo",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "智能手机",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "手机",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "LCD",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "半导体技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "柔性屏",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "小米",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "OPPO",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "vivo",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "智能手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "手机",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "LCD",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方",
+          "target": "京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "OLED",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "由京东方科技集团股份有限公司",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "京东方",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "OLED",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OLED",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "京东方",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "京东方",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "小米",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "小米",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OPPO",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OPPO",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "vivo",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "vivo",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "LCD",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "LCD",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OLED",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OLED",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OLED",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OLED",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由京东方科技集团股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "京东方",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "京东方",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "京东方科技集团股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "小米",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "小米",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OPPO",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "OPPO",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "vivo",
+          "target": "半导体技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "vivo",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "小米",
+          "target": "OPPO",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "小米",
+          "target": "vivo",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "小米",
+          "target": "LCD",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "小米",
+          "target": "OLED",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "OPPO",
+          "target": "小米",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "OPPO",
+          "target": "vivo",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "OPPO",
+          "target": "LCD",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "OPPO",
+          "target": "OLED",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "vivo",
+          "target": "小米",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "vivo",
+          "target": "OPPO",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "vivo",
+          "target": "LCD",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "vivo",
+          "target": "OLED",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "LCD",
+          "target": "小米",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "LCD",
+          "target": "OPPO",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "LCD",
+          "target": "vivo",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "LCD",
+          "target": "OLED",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "OLED",
+          "target": "小米",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "OLED",
+          "target": "OPPO",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "OLED",
+          "target": "vivo",
+          "relation": "compete",
+          "confidence": 0.6
+        },
+        {
+          "source": "OLED",
+          "target": "LCD",
+          "relation": "compete",
+          "confidence": 0.6
+        }
+      ],
+      "entity_count": 15,
+      "relation_count": 410
+    },
+    {
+      "id": "CN202100004",
+      "title": "无人机智能避障系统",
+      "entities": [
+        {
+          "text": "无人机",
+          "type": "product",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.9
+        },
+        {
+          "text": "系统",
+          "type": "technology",
+          "start": 7,
+          "end": 9,
+          "confidence": 0.5
+        },
+        {
+          "text": "由大疆创新科技有限公司",
+          "type": "enterprise",
+          "start": 28,
+          "end": 39,
+          "confidence": 0.7
+        },
+        {
+          "text": "大疆创新科技有限公司",
+          "type": "enterprise",
+          "start": 29,
+          "end": 39,
+          "confidence": 0.95
+        },
+        {
+          "text": "大疆",
+          "type": "enterprise",
+          "start": 29,
+          "end": 31,
+          "confidence": 0.95
+        },
+        {
+          "text": "计算机视觉",
+          "type": "technology",
+          "start": 47,
+          "end": 52,
+          "confidence": 0.9
+        },
+        {
+          "text": "深度学习",
+          "type": "technology",
+          "start": 53,
+          "end": 57,
+          "confidence": 0.9
+        },
+        {
+          "text": "深度",
+          "type": "location",
+          "start": 53,
+          "end": 55,
+          "confidence": 0.7
+        },
+        {
+          "text": "技术",
+          "type": "technology",
+          "start": 57,
+          "end": 59,
+          "confidence": 0.5
+        },
+        {
+          "text": "领域",
+          "type": "industry",
+          "start": 94,
+          "end": 96,
+          "confidence": 0.5
+        },
+        {
+          "text": "行业",
+          "type": "industry",
+          "start": 101,
+          "end": 103,
+          "confidence": 0.5
+        }
+      ],
+      "relations": [
+        {
+          "source": "技术",
+          "target": "领域",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "技术",
+          "target": "行业",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "领域",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "领域",
+          "target": "行业",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "行业",
+          "target": "技术",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "行业",
+          "target": "领域",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由大疆创新科技有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由大疆创新科技有限公司",
+          "target": "计算机视觉",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由大疆创新科技有限公司",
+          "target": "深度学习",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由大疆创新科技有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "大疆创新科技有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "大疆创新科技有限公司",
+          "target": "计算机视觉",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "大疆创新科技有限公司",
+          "target": "深度学习",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "大疆创新科技有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "大疆",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "大疆",
+          "target": "计算机视觉",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "大疆",
+          "target": "深度学习",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "大疆",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        }
+      ],
+      "entity_count": 11,
+      "relation_count": 18
+    },
+    {
+      "id": "CN202100005",
+      "title": "智能安防监控系统",
+      "entities": [
+        {
+          "text": "系统",
+          "type": "technology",
+          "start": 6,
+          "end": 8,
+          "confidence": 0.5
+        },
+        {
+          "text": "由海康威视数字技术股份有限公司",
+          "type": "enterprise",
+          "start": 25,
+          "end": 40,
+          "confidence": 0.7
+        },
+        {
+          "text": "海康威视",
+          "type": "enterprise",
+          "start": 26,
+          "end": 30,
+          "confidence": 0.95
+        },
+        {
+          "text": "海康威视数字技术股份有限公司",
+          "type": "enterprise",
+          "start": 26,
+          "end": 40,
+          "confidence": 0.95
+        },
+        {
+          "text": "技术",
+          "type": "technology",
+          "start": 32,
+          "end": 34,
+          "confidence": 0.5
+        },
+        {
+          "text": "系统集成",
+          "type": "technology",
+          "start": 44,
+          "end": 48,
+          "confidence": 0.5
+        },
+        {
+          "text": "人工智能",
+          "type": "technology",
+          "start": 49,
+          "end": 53,
+          "confidence": 0.9
+        },
+        {
+          "text": "物联网",
+          "type": "technology",
+          "start": 54,
+          "end": 57,
+          "confidence": 0.9
+        },
+        {
+          "text": "大数据",
+          "type": "technology",
+          "start": 58,
+          "end": 61,
+          "confidence": 0.9
+        },
+        {
+          "text": "深圳",
+          "type": "location",
+          "start": 109,
+          "end": 111,
+          "confidence": 0.9
+        },
+        {
+          "text": "北京",
+          "type": "location",
+          "start": 112,
+          "end": 114,
+          "confidence": 0.9
+        },
+        {
+          "text": "上海",
+          "type": "location",
+          "start": 115,
+          "end": 117,
+          "confidence": 0.9
+        },
+        {
+          "text": "城市",
+          "type": "location",
+          "start": 118,
+          "end": 120,
+          "confidence": 0.7
+        }
+      ],
+      "relations": [
+        {
+          "source": "人工智能",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "人工智能",
+          "target": "大数据",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "人工智能",
+          "target": "深圳",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "人工智能",
+          "target": "北京",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "人工智能",
+          "target": "上海",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "人工智能",
+          "target": "城市",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "人工智能",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "大数据",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "深圳",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "北京",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "上海",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "物联网",
+          "target": "城市",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "大数据",
+          "target": "人工智能",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "大数据",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "大数据",
+          "target": "深圳",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "大数据",
+          "target": "北京",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "大数据",
+          "target": "上海",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "大数据",
+          "target": "城市",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "深圳",
+          "target": "人工智能",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "深圳",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "深圳",
+          "target": "大数据",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "深圳",
+          "target": "北京",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "深圳",
+          "target": "上海",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "深圳",
+          "target": "城市",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "北京",
+          "target": "人工智能",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "北京",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "北京",
+          "target": "大数据",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "北京",
+          "target": "深圳",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "北京",
+          "target": "上海",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "北京",
+          "target": "城市",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "上海",
+          "target": "人工智能",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "上海",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "上海",
+          "target": "大数据",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "上海",
+          "target": "深圳",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "上海",
+          "target": "北京",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "上海",
+          "target": "城市",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "城市",
+          "target": "人工智能",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "城市",
+          "target": "物联网",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "城市",
+          "target": "大数据",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "城市",
+          "target": "深圳",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "城市",
+          "target": "北京",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "城市",
+          "target": "上海",
+          "relation": "supply",
+          "confidence": 0.7
+        },
+        {
+          "source": "由海康威视数字技术股份有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由海康威视数字技术股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由海康威视数字技术股份有限公司",
+          "target": "系统集成",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由海康威视数字技术股份有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由海康威视数字技术股份有限公司",
+          "target": "物联网",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "由海康威视数字技术股份有限公司",
+          "target": "大数据",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视",
+          "target": "系统集成",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视",
+          "target": "物联网",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视",
+          "target": "大数据",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视数字技术股份有限公司",
+          "target": "系统",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视数字技术股份有限公司",
+          "target": "技术",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视数字技术股份有限公司",
+          "target": "系统集成",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视数字技术股份有限公司",
+          "target": "人工智能",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视数字技术股份有限公司",
+          "target": "物联网",
+          "relation": "technology",
+          "confidence": 0.8
+        },
+        {
+          "source": "海康威视数字技术股份有限公司",
+          "target": "大数据",
+          "relation": "technology",
+          "confidence": 0.8
+        }
+      ],
+      "entity_count": 13,
+      "relation_count": 60
+    }
+  ],
+  "entities": [],
+  "relations": [],
+  "statistics": {
+    "total_patents": 5,
+    "total_entities": 66,
+    "total_relations": 758,
+    "entity_types": {
+      "technology": 25,
+      "enterprise": 26,
+      "product": 8,
+      "location": 5,
+      "industry": 2
+    },
+    "relation_types": {
+      "technology": 182,
+      "compete": 26,
+      "supply": 550
+    }
+  }
+}
